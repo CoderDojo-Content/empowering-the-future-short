@@ -30,7 +30,7 @@ Although the reasons for why so many girls didn’t return are unclear, we estab
 * Events like this might help to demystify coding, but don’t necessarily give all girls the confidence to enter a mixed environment and work with boys who appear to be more knowledgeable.
 
 * The fact that there is a special event for girls may reinforce the ideas that ‘girls don’t code’ and have to be given special treatment.
-
+___
 Considering that so many girls signed up and attended, it appears that there is an interest which is not currently being met in a way that works for girls. So while we didn’t find the events useful, it may be possible to reframe them to avoid negative outcomes while still retaining their positive aspects.
 
 **Measures to try to improve one-off event outcomes include:**
