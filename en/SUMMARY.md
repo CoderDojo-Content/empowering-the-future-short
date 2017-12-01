@@ -2,14 +2,7 @@
 
 * [Getting Setup](README.md)
 * [1. Dojo environment and layout](dojo.md)
-* [1.2 Experience-based layout](12-experience-based-layout.md)
-* [1.3 Age-based layout](13-age-based-layout.md)
-* [1.4 Girls table/space](14-girls-tablespace.md)
-* [1.5 Targeted invites & ticket holding](15-targeted-invites-and-select-ticket-holding.md)
-* [1.6 Mentoring approaches](16-mentoring-approaches.md)
-* [2.1 Language](21-language.md)
-* [2.2 Images](22-images.md)
+* [2. Language and images](21-language.md)
 * [3.Dojo content](3dojo-content.md)
-* [3.1 Activities](31-activities.md)
-* [3.2 Technologies](32-technologies.md)
 * [4.Female role models](4female-role-models.md)
+
