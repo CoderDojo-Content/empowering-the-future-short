@@ -7,4 +7,5 @@
 * [1.4 Girls table/space](14-girls-tablespace.md)
 * [1.5 Targeted invites & ticket holding](15-targeted-invites-and-select-ticket-holding.md)
 * [1.6 Mentoring approaches](16-mentoring-approaches.md)
+* 2. Language and images
 
