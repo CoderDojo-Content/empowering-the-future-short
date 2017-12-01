@@ -4,7 +4,9 @@ Many Dojos encourage girls to continue attending by creating a beginner space fo
 
 * Ask questions without being afraid that others around them might know the answer
 
-* Make mistakes without worrying that others might see them in a negative light  
+* Make mistakes without worrying that others might see them in a negative light
+
+
 
 A beginner's table can help quash what Harvey Mudd College \(HMC\) calls the ‘macho effect’. This term describes circumstances in which a few vocal students, who are more experienced with technology, dominate a group session and thus undermine the confidence of other students, who as a result are more likely to drop out.
 
