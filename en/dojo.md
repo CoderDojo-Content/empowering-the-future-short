@@ -1,4 +1,4 @@
-### [^1]1 Dojo Environment and Layout
+### 1 Dojo Environment and Layout
 
 Your layout and seating should help to ensure that:
 
@@ -79,8 +79,4 @@ Reshma Saujani, the founder of Girls Who Code, notes that girls are being social
 #### Fostering a support network
 
 Developing a support network among the girls in your Dojo is another way to help build their resilience. Wendy of Clonakilty explains uses her girls table to try and promote camaraderie among the girls by encouraging them to celebrate each other’s accomplishments. She explains: “Before the National Scratch competition, I had all the girls show their entries just to the girls table. I wanted them to relish the sense of achievement — but I also wanted to show the girls how to support one another, so they could learn how to compete whilst also being happy for each other.”
-
-
-
-
 
