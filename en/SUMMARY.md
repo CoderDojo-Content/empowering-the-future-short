@@ -13,6 +13,3 @@
 * [3.1 Activities](31-activities.md)
 * [3.2 Technologies](32-technologies.md)
 * [4.Female role models](4female-role-models.md)
-
-
-
