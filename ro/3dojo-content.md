@@ -1,8 +1,8 @@
-Conținutul utilizat într-un dojo poate influența nivelul de interes și participarea fetelor. Este important să vă asigurați că activitățile de la dojo nu întăresc stereotipurile și că sunt atractive atât pentru băieți, cât și pentru fete. Există o serie de considerente de care trebuie să țineți cont atunci când planificați conținutul pentru dojo. 
+Conținutul utilizat într-un dojo poate influența nivelul de interes și participarea fetelor. Este important să vă asigurați că activitățile de la dojo nu întăresc stereotipurile și că sunt atractive atât pentru băieți, cât și pentru fete. Există o serie de considerente de care trebuie să țineți cont atunci când planificați conținutul pentru dojo.
 
-Gemma Cagney oferă următoarele sfaturi pe baza experiențelor sale:
+Gemma Cagney oferă următoarele sfaturi pe baza experiențelor sale:
 
-* Aflați care sunt abilitățile și interesele mentorilor femei și încurajați-le să le folosească atunci când elaborează conținutul sesiunilor. 
+* Aflați care sunt abilitățile și interesele mentorilor femei și încurajați-le să le folosească atunci când elaborează conținutul sesiunilor.
 
 * Distribuiți răspunderea pentru conținutul utilizat în cadrul unei echipe, astfel încât membrii acesteia să se poată sprijini și ajuta unul pe altul; nici o persoană nu ar trebui să fie de neînlocuit, sau crucială pentru succesul unei sesiuni. O situație contrară ar pune prea multă presiune asupra persoanei în cauză!
 
@@ -38,11 +38,9 @@ Este important să oferim fetelor ocazia de a fi creative. Utilizați resursele 
 
 #### 
 
-#### Neutralitatea de gen 
+#### Neutralitatea de gen
 
 În prezența unei majorități a băieților, e ușor ca activitatea să se orienteze \(în mod inconștient\) spre proiectele tematice în jurul unor activități "stereotipice" pentru băieți, cum ar fi sporturile sau jocurile de luptă. La capătul opus al scalei, atunci când se planifică activitățile dedicate fetelor, ar putea fi tentantă supracompensarea prin încorporarea unor subiecte tipice "de fetițe" sau prin nuanțarea ”în roz” a resurselor. Asemenea abordări perpetuează stereotipurile și riscă să facă fetele să se simtă etichetate.
-
-
 
 În locul utilizări de conținut diferit pentru băieți și fete, este recomandabilă folosirea de resurse neutre din punct de vedere al genului pentru toți ninja. Atractivitatea pentru fete către materii STEM s-a dovedit a fi mai mare în cazul în care curricula este percepută ca fiind neutră din punctul de vedere al genului. Folosind la dojo conținut care nu este orientat spre un gen sau altul, arătăm că învățarea despre tehnologie este pentru adresată tuturor și se evită, de asemenea, stereotipizarea, fie a băieților, fie a fetelor. Ca rezultat, dojo-ul va fi un spațiu mai incluziv.
 
@@ -70,7 +68,7 @@ Modul în care o tehnologie este prezentată poate avea un impact mai mare asupr
 
 ### 3.3 Subiectul contează
 
-Subiectul care va fi utilizat într-o activitate depinde foarte mult de copiii înșiși. Dacă aflăm în ce zone se află interesele putem alege subiecte care le sunt familiare. Pot fi luate în considerare interesele locale dintr-o comunitate. De exemplu, agricultura ar putea fi un subiect de care copiii care trăiesc într-o fermă sau dacă au prieteni care o fac ar putea fi interesați. Bazându-ne pe studiile menționate, pe observațiile făcute la dojo-uri cu un procent ridicat de fete și pe subiectele proiectelor propuse de fete în vederea participării la Coolest Projects, au putut fi colectate următoarele sugestii de subiecte:  
+Subiectul care va fi utilizat într-o activitate depinde foarte mult de copiii înșiși. Dacă aflăm în ce zone se află interesele putem alege subiecte care le sunt familiare. Pot fi luate în considerare interesele locale dintr-o comunitate. De exemplu, agricultura ar putea fi un subiect de care copiii care trăiesc într-o fermă sau dacă au prieteni care o fac ar putea fi interesați. Bazându-ne pe studiile menționate, pe observațiile făcute la dojo-uri cu un procent ridicat de fete și pe subiectele proiectelor propuse de fete în vederea participării la Coolest Projects, au putut fi colectate următoarele sugestii de subiecte:
 
 * Probleme sociale și ajutorarea oamenilor
 
@@ -84,11 +82,11 @@ Subiectul care va fi utilizat într-o activitate depinde foarte mult de copiii �
 
 ### 3.4 Resurse sugerate
 
-Platforma de resurse CoderDojo include o multitudine de conținut gratuit, util pentru activitățile din dojo-uri. Cardurile Sushi sunt un bun exemplu: acestea sunt colecții de carduri A4 cu conținut față-verso, concepute pentru a fi practice, ușor de asimilat și neutre din punct de vedere al genului. În plus, pe platformă sunt disponibile numeroase resurse și proiecte suplimentare, create și împărtășite de membrii comunității CoderDojo și care sunt folosite la propriile lor dojo-uri.
+Platforma de resurse CoderDojo include o multitudine de conținut gratuit, util pentru activitățile din dojo-uri. Cardurile Sushi sunt un bun exemplu: acestea sunt colecții de carduri A4 cu conținut față-verso, concepute pentru a fi practice, ușor de asimilat și neutre din punct de vedere al genului. În plus, pe platformă sunt disponibile numeroase resurse și proiecte suplimentare, create și împărtășite de membrii comunității CoderDojo și care sunt folosite la propriile lor dojo-uri.
 
-Cardurile Sushi 
+Cardurile Sushi
 
-În cele ce urmează sunt listate câteva locuri de pe platforma de resurse CoderDojo, potrivite pentru a începe învățarea programării. Vizitați pagina de pornire coderdojo.com pentru a găsi mai multe asemenea locuri.
+În cele ce urmează sunt listate câteva locuri de pe platforma de resurse CoderDojo, potrivite pentru a începe învățarea programării. Vizitați pagina de pornire coderdojo.com pentru a găsi mai multe asemenea locuri.
 
 [Scratch path](/ http://dojo.soy/CDG-Scratch_Path)
 
@@ -98,7 +96,7 @@ Cardurile Sushi
 
 * [Python ](http://dojo.soy/CDG-Python_Path)
 
-* [Dispozitive wearable](http://dojo.soy/CDG-Wearables)”
+* [Dispozitive ”wearable](http://dojo.soy/CDG-Wearables)”
 
 Exemplele de resurse adiționale create de membri ai comunității CoderDojo includ:
 
