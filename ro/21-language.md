@@ -1,54 +1,54 @@
-The language we use every day is important, because it determines and reinforces our perceptions of people and things. The same can be said for the language Dojo organisers use to describe their sessions in their communications.
+Limbajul pe care îl folosim zi de zi este important, deoarece el determină și întărește percepția pe care o avem asupra oamenilor și lucrurilor. Același lucru poate fi spus despre limbajul pe care organizatorii CoderDojo îl folosesc pentru a descrie sesiunile de lucru cu ocazia oricărei comunicări. 
 
-Research has shown that girls respond better when certain elements of programming are highlighted over others. CoderDojo Scotland conducted research into the event pages of their Dojos: they categorised and analysed pages from events of 2012-2016, and cross-referenced the results with the gender balance of the events. This revealed that descriptions which were specific and emphasized creativity were more likely to attract girls. Conversely, descriptions which emphasized competition or showcasing of work, or which used jargon were much less likely to attract girls.
+Cercetările au arătat că fetele răspund mai bine atunci când anumite elemente de programare sunt evidențiate înaintea altora. CoderDojo Scoția a efectuat cercetări asupra paginilor evenimentelor dojo-urilor componente: au clasificat și analizat evenimente desfășurate în intervalul 2012-2016 și au analizat corelațiile rezultatelor cu distribuția pe sexe a participanților la respectivele evenimente. Au constatat că acele descrieri care erau specifice și și făceau referire la aspecte legate de creativitate au atras mai multe fete. Dimpotrivă, descrierile de evenimente care se refereau la competiții sau prezentări de proiecte sau care foloseau elemente de jargon au fost mai puțin atractive pentru fete.
 <br><br/>
-#### Writing Dojo descriptions aimed at girls
+#### Crearea de descrieri care vizează fetele
 
-When creating events for your Dojo, you should actively emphasize creativity, specificity, and familiarity.
+Când creați evenimente pentru un dojo, trebuie să accentuați în mod activ creativitatea, specificitatea și familiaritatea.
 
-* Describe activities in a way that highlights the opportunity for being creative, emphasising that attendees can make something new and of specific interest to them. Examples include activities which incorporate music \(Sonic Pi\) or art and design \(Scratch\).
+* Descrieți activitățile într-un mod care evidențiază oportunitatea oferită copiilor de a fi creativ, subliniind că participanții pot face ceva nou și de interes specific pentru ei. Exemplele includ activități care includ muzică \ (Sonic Pi \) sau artă și design \ (Scratch \).
 
-* Ensure that you are describing activities in terms of clearly defined goals, e.g. ‘we will make X’, or ‘we will do Y’. Avoid general descriptions like ‘you can explore coding’ or ‘you will be able to work on your own projects’.
+* Asigurați-vă că descrieți activități în termeni de obiective clar definite, de ex. "Vom face X", sau "vom face Y". Evitați descrierile generale cum ar fi "puteți explora programarea" sau "veți putea să lucrați pe propriile proiecte".
 
-* Does the description connect the activity to non-computing terms and concepts with which people are likely to be familiar and comfortable? For example, ‘writing stories’, ’sharing with friends’, or ‘jelly babies’.
+* Descrierea trebuie să conecteze activitatea la termeni și concepte nelegate de programare, cu care oamenii e probabil să fie familiari și confortabili? De exemplu, "scrierea de povești", "împărtășirea cu prietenii" sau "gummibears".
 
-* When writing your event description, it is useful to mention that attendees can bring a friend. Girls are often influenced by peers, so having a friend come to the Dojo can make the environment seem more welcoming.
+* Când elaborați descrierea evenimentului, este util de menționat că participanții pot aduce un prieten. Fetele sunt adesea influențate de colegii lor, așa că un prieten care vine la Dojo poate face ca mediul să pară mai primitor.
 <br><br/>
 
-#### Language to avoid
+#### Elemente de limbaj care trebuie evitate
 
-There are some terms you should avoid using heavily, as event descriptions which include these have been shown to attract low numbers of girls.
+Există anumiți termeni a căror utilizare frecventă ar trebui evitată, deoarece s-a dovedit că descrierile de eveniment care le includ, nu sunt prea atractive pentru fete.
 
-* Jargon: does the language in the description contain words or phrases only known to people who are already familiar with a topic? These might refer to computing \(e.g. ‘CSS’, ‘HTML’, ‘scripting’, ‘prototype’\), or to another element of the activity \(e.g. ‘dubstep’ - music; ‘Dutch angle’ – film; ‘protagonist’ - literature\).
+* Elemente de jargon: în descriere există cuvinte sau expresii cunoscute doar persoanelor care sunt deja familiarizate cu un anumit subiect? Acestea s-ar putea referi la programare\ (de ex. 'CSS', 'HTML', 'scripting', 'prototip'\) sau la termeni din diverse activități \ (de exemplu 'dubstep' în muzică, 'unghi olandez' în cinematografie sau ‘protagonist‘ în literatură\).
 
-* Competition: is the event described in a way which makes it sound like a contest \(e.g. with terms like ‘the best’, ‘winning’\)?
+* Competiție: este evenimentul descris într-un mod care îl face să pară un concurs (de exemplu, cu termeni precum "cel mai bun", "câștigător")?
 
-* Showcasing: does the description indicate that attendees will have to demonstrate what they know to other people, or even present their work to a group \(e.g. phrases like ‘Show us what you can do’, ‘Come and share your computing knowledge’\)?
+* Prezentare: descrierea indică faptul că participanții vor trebui să demonstreze ceea ce știu altora sau chiar să-și prezinte munca într-un grup (de exemplu, expresii precum "Arată-ne ce poți face", "Vino și împărtășește cunoștințele tale de programare" \)?
 
 ____
 
-### 2.2 Images
+### 2.2 Imagini
 
-When promoting your Dojo on social media, in local papers, by email or using leaflets, it’s useful to include a photo or photos of what the event might look like. Like wording, the images you use to illustrate your Dojo are important. While more engaging than text, photos, videos, and other images strongly impact the external perception of your Dojo. It is vital that your images highlight how open, fun, and inclusive your Dojo is.
+Atunci când promovați un dojo pe rețele de socializare, în publicații locale, prin e-mail sau prin pliante, este utilă includerea de fotografii despre cum ar putea arăta evenimentul. Ca și formulările verbale, imaginile care se folosesc pentru a ilustra activitățile dojo-urilor sunt importante. Pe lângă faptul că angajează publicul mai mult decât un text, fotografiile, videoclipurile și alte imagini generează un impact puternic asupra percepției externe asupra dojo-ului. Este vital ca imaginile folosite să evidențieze cât de deschis, distractiv și incluziv este dojo-ul pe care îl descriu.
 
-####  Tips for collecting diverse images
+####  Recomandări pentru colecționare de imagini 
 
-* If you have a photographer coming to the Dojo, be sure that they take images which represent the range of genders, ethnicities, and ages of your Ninjas.
+* Dacă urmează ca un fotograf să vină la dojo-ul pe care îl organizați, asigurați-vă că acesta va realiza imagini care reprezintă întreaga gamă de genuri, etnii și vârste ale ninjas.
 
-* If you have a very low number of girls attending your Dojo, utilising your girls table or holding a girls event can be useful for collecting images of female Ninjas.
+* Dacă aveți un număr foarte mic de fete care participă la dojo, folosirea mesei de fete sau organizarea unui eveniment al acestora poate fi utilă pentru colectarea unor imagini ale ninjas de gen feminin.
 
   
 
 
-#### How can I be certain images are as appealing to girls as to boys?
+#### Cum putem fi siguri că anumite imagini sunt la fel de atractive pentru fete ca și pentru băieți?
 
-* Make sure both boys and girls are present in the images you share.
+* Asigurați-vă că atât băieți cât și fete sunt prezenți în imaginile pe care le distribuiți.
 
-* Share several images, so assumptions aren’t based on one snapshot.
+* Distribuiți seturi mai ample de imagini, astfel încât impresiile nu se crează pe baza unui instantaneu unic.
 
-* Use images of children/teens having fun, laughing.
+* Folosiți imagini ale unor copii și tineri care se distrează și râd. 
 
-* **Publish photos highlighting a variety of projects, including creative and visual activities.**
+* **Publicați fotografii care ilustrează o varietate de proiecte, incluzând activități creative și vizuale.**
 
 
 
