@@ -1,80 +1,84 @@
-**Your layout and seating should help to ensure that:**
+**Configurația spațială și amenajarea locurilor trebuie să contribuie la asigurarea următoarelor caracteristici:**
 
-1. Your Dojo is, and is also viewed as, friendly to girls, so that girls who hear about it or attend it feel it is as welcoming to them as it is to boys
+1. Dojo-ul este și, de asemenea, este perceput ca fiind prietenos pentru fete, astfel încât fetele care află despre el sau îl frecventează îl simt la fel de ospitalier pentru ele cum este și pentru băieți
 
-2. First-time female attendees are as likely as their male counterparts to return to subsequent sessions and become regulars
+2. Fetele care vin pentru prima oară vor reveni cu aceeași probabilitate ca și băieții aflați în aceeși situație la sesiunile următoare, devenind participanți obișnuiți ai Dojo-ului
 
-A proportion of any group of people who try an activity for the first time will decide it is not actually something they want to do again. CoderDojo Scotland's 2017 report covering Dojo attendance from July 2012 to December 2016 notes that the percentage of first-time attendees who didn’t return for a second Dojo session was 19 points higher for girls compared to boys \(64% vs 45%\). Furthermore, only 23% of girls returned to more than one mixed Dojo \(39% for boys\). The Dojo’s team notes in the report that “there may be factors in the Dojos themselves which discourage girls from becoming regular attendees”.
+O parte din orice grup de oameni care încearcă pentru prima oară o activitate vor decide că aceasta nu este, de fapt, ceva ce își doresc să facă din nou. Un raport elaborat de către echipa CoderDojo Scoția în 2017 care se referă la participarea la activitățile dintre iulie 2012 și decembrie 2016 indică faptul că procentul celor veniți pentru prima oară și care nu revin pentru o a doua sesiune este cu 19 procente mai mare în cazul fetelor, decât în cazul băieților \(64% față de 45%\). Mai mult chiar, în cazul dojo-urilor mixte \(deschise participării ambelor genuri\), doar 23% dintre fete se întorc în vederea unei a doua participări, față de 39% dintre băieți. Echipele dojo-urilor scoțiene au notat în raport că ”e posibilă existența în cadrul Dojo-urilor a unor factori care descurajează fetele să devină participante cu regularitate la activitățile dojo-urilor”.
 
-**Potentially discouraging layout approaches include:**
+**Aspecte cu efect descurajant legate de configurația spațială a Dojo-urilor:**
 
-* Putting highly experienced Ninjas beside complete beginners
+* Plasarea ninjas foarte experimentați lângă începători absoluți
 
-* Separating girls in male-majority spaces
+* Separarea fetelor în spații populate majoritar de băieți
 
-* Distancing female Mentors from female Ninjas
+* Plasarea la distanțe majore a mentorilor de gen feminin de fetele ninja
 
-* Dividing girls from friends
+* Separarea fetelor de prietenii acestora
 
-* Allowing unconscious bias in layout \(seating girls far from engaging areas\)
+* Acceptarea unor debalansări inconștiente de tipul plasării fetelor la distanță de zonele de maxim angajament al ninjas
 
-While there are many ways of creating a welcoming environment, we suggest four key approaches which can be used independently or in conjunction to help attract and retain more girls:
+Deși există multiple modalități de a crea un mediu ospitalier, vă sugerăm patru abordări principale care pot fi folosite separat sau împreună pentru a atrage și reține mai bine fetele:
 
-1. **Keeping peers/friends together**
+1. **Menținerea împreună a celor care sunt colegi de clasă sau prieteni**
 
-2. **Experience-based layout**
+2. **Configurația spațială în funcție de nivelul de expertiză**
 
-3. **Age-based layout**
+3. **Configurația spațială în funcție de vârstă **
 
-4. **Girls table/space**
-
----
-
-### 1.2 Experience-based layout
-
-Many Dojos encourage girls to continue attending by creating a beginner space for Ninjas where they “feel safe to express themselves, to ask questions, and to speak their minds” \(Gemma Cagney, Mentor at Silicon Docks Dojo\). Some Dojos do this by setting up a table for beginners, or for those who are new to the Dojo. This space allows beginners to:
-
-* Develop relationships with others who are new to the content being covered
-
-* Ask questions without being afraid that others around them might know the answer
-
-* Make mistakes without worrying that others might see them in a negative light
-
-A beginner's table can help quash what Harvey Mudd College \(HMC\) calls the ‘macho effect’. This term describes circumstances in which a few vocal students, who are more experienced with technology, dominate a group session and thus undermine the confidence of other students, who as a result are more likely to drop out.
-
-Note: If there are particularly experienced and vocal Ninjas in your Dojo, who appear to be intimidating to others, encouraging them to be less dominant can often be accomplished by simply explaining that they might be making others feel less confident, and that they can discuss their experiences with a Mentor instead.
+4. **Mese/zone rezervate pentru fete **
 
 ---
 
-### 1.3 Age-based layout
+### 1.2 Configurația spațială în funcție de nivelul de expertiză
 
-In an approach similar to the experience-based layout, some Dojos split classes into age groups to deal with space and time constraints, as well as with older attendees becoming disengaged in an environment full of younger Ninjas. If a Dojo decides on this approach, the organisers usually create a space for 7- to 12-year-olds, and another space for 13- to 17-year-olds; you will be able to assess the best split for your group.
+Numeroase dojo-uri încurajează fetele să își continue participarea prin crearea unui spațiu dedicat ninjas începători unde aceștia ”să simtă siguranța necesară pentru a se exprima, pentru a pune întrebări și pentru a spune ce le preocupă”  \(Gemma Cagney, mentor la Silicon Docks Dojo\). Alte dojo-uri fac aceasta amenajând mese pentru începători sau pentru cei care sunt nou-veniți la resepctivul dojo. Acest tip de spațiu le permite începătorilor:
 
-If you are contemplating splitting your Dojo by age, it is important to make sure that doing so also supports the continuation of female attendance. Studies have noted that there is a tendency for girls in particular to drop out around the ages of 12-13 as they transition to secondary/high school. At this age, many young people begin to judge activities in terms of whether they support their future and their career aspirations. Accenture’s latest report notes that girls’ career plans appear to be strongly influenced by what kind of work they enjoy and also see as creative and beneficial to society. Emphasising the plethora of computing-related careers, and how they fit these criteria, is a good way to encourage girls at this critical age to keep attending your Dojo .
+* Să dezvolte relații cu alți participanți care sunt începători în domeniul tehnologic studiat
 
-We advise against implementing an age-based layout in your Dojo if only 20% \(or less\) of attendees are girls, especially if doing so would divide their numbers. In these extreme cases, we recommend setting up a girls table or space.
+* Să pună întrebări fără teama că răspunsurile sunt cu siguranță cunoscute de cei din jur
+
+* Să facă greșeli fără teama că vor fi percepuți într-o lumină negativă de către ceilalți
+
+O masă dedicată începătorilor poate ajuta la eliminarea a ceea ce Harvey Mudd Colegiul \(HMC\) numește "efectul macho". Acest termen descrie circumstanțele în care câțiva studenți vocali, care sunt mai experimentați în domeniul tehnologiei, domină o sesiune de grup și subminează astfel încrederea altor studenți, care, în consecință, sunt mai predispuși să renunțe.
+
+Notă: dacă există Ninjas cu experiență și vocalitate deosebită în Dojo, care par a fi intimidanți pentru ceilalți, încurajarea lor spre a fi mai puțin dominanți poate fi adesea realizată prin simpla explicare a faptului că i-ar putea face pe alții să se simtă mai puțin încrezători și că ar putea să își discute experiențele cu un mentor, în schimb.
 
 ---
 
-### 1.4 Girls table/space
+### 1.3 Configurația spațială în funcție de vârstă
 
-Many girls can feel overwhelmed and out of place in a predominantly male environment. When there is such a skew, a dedicated table can be a very effective way of creating a welcoming space for girls within the larger Dojo. Girls tables can be particularly effective if you have a very low number \(≤ 20%\) of female Ninjas as well as female technical Mentors. Pete Gegen of Rochester, Illinois Dojo says, “We start girls-only teams, tables, or groups when the percentage of female participants drops very low \(under 20%\). We have seen this approach give very good results.”CoderDojo DCU, Clonakilty Dojo, and CoderDojo Ham \(among other Dojos\) have set up a table or space dedicated to girls at their events.
+Într-o abordare asemănătoare cu configurația spațială în funcție de experiență, unele dojo-uri au împărțit copiii pe grupuri de vârstă pentru a face față constrângerilor legate de spațiu și timp, precum și cu situațiile în care participanții mai în vârstă devin dezangajați într-un mediu dominat masiv de ninjas semnificativ mai tineri. Dacă un dojo alege această abordare, organizatorii creează, de obicei, un spațiu pentru copiii de 7-12 ani și un alt spațiu pentru copiii de 13-17 ani. Bineînțeles, că pot fi evaluate și alte grupări ale vâstelor.
 
-### 1.5 Targeted invites and select ticket holding
+Dacă vă gândiți să împărțiți dojo-ul după vârstă, este important să vă asigurați că acest lucru susține și continuarea participării fetelor. Studiile au arătat că există o tendință a fetelor de a renunța în special la vârste cuprinse între 12 și 13 ani, în corelație cu tranziția spre liceu. La această vârstă, numeroși tineri încep să judece activitățile în funcție de modul în care acestea le susțin viitorul și aspirațiile de carieră. Un raport recent elaborat de Accenture arată că planurile de carieră ale fetelor par a fi puternic influențate de ce tipul de activități care le fac plăcere și pe care le percep ca fiind creative și benefice pentru societate. Sublinierea existenței unei multitudini de cariere legate de programare și faptul că ele se răspund acestor criterii, este o modalitate bună de a încuraja fetele la această vârstă critică să continue să participe la activitățile CoderDojo.
 
-Encouraging girls who attend to return is vital, particularly in Dojos where they are in a minority. Targeting invites to girls who have previously attended and ring-fencing tickets for girls are both effective approaches to this. Some Dojos hold tickets specifically for girls who attended their last Dojo for a week or two before releasing them to the general public. Other Dojos hold a proportion for girls \(anywhere from 20-50%\) to encourage an increased uptake by girls. This method is particularly effective in Dojos which are consistently oversubscribed or sold out but have consistently low percentage of girls.
+Nu e recomandabilă implementarea unei configurații spațiale bazate pe vârstă în dojo-uri la care sub 20% dintre participanți sunt fete, mai ales dacă acest lucru le-ar împărți în grupuri și mai mici. În aceste cazuri extreme, este recomandată crearea unei mese sau a unui spațiu exclusiv pentru fete.
+
+---
+
+### 1.4 Mese sau spații dedicate fetelor
+
+Multe dintre fete se pot simți copleșite și ”nelalocul lor” într-un mediu predominant masculin. Atunci când există o astfel de situație, o masă dedicată poate fi o modalitate foarte eficientă de a crea un spațiu primitor pentru fete în cadrul unui dojo mai mare. Mesele pentru fete pot fi deosebit de eficiente dacă aveți un număr foarte mic \(≤ 20%\) de ninja fete, precum și de mentori tehnici de gen feminin. Pete Gegen de la un dojo din Rochester, Illinois spune: "Inițiem echipe, mese sau grupuri formate exclusiv din fete numai când procentul participantelor de sex feminin scade mult, ajungând sub 20%. Am observat că această abordare oferă rezultate foarte bune". CoderDojo DCU, Clonakilty Dojo și CoderDojo Ham \(printre altele\) au creat o masă sau un spațiu dedicat fetelor la evenimentele lor curente.
+
+### 1.5 Invitații dedicate și rezervarea de bilete Targeted invites and select ticket holding
+
+Încurajarea revenirii fetelor care participă este vitală, în special în dojo-urile în care acestea sunt în minoritate. Direcționarea de invitații către fetele care au participat anterior și rezervarea unui anumit număr de bilete pentru fete sunt abordări eficiente în acest sens. Unele dojo-uri folosesc bilete speciale pentru fetele care au participat la cea mai recentă sesiune, pe care le lansează cu o săptămână sau două înainte de a le elibera pe cele destinate publicului larg. Alte dojo-uri rețin o anumită proporție a biletelor pentru fete \(oriunde între 20% și 50%\) pentru a încuraja o absorbție crescută de către fete. Această metodă este deosebit de eficientă în cazul dojo-urilor la care interesul de participare depășește în mod constant capacitatea locației, dar care au în mod constant un procent scăzut de fete participante.
 
 ### \_\_\_
 
-### 1.6 Mentoring approaches
+### 1.6 Abordări specifice ale procesului de mentoring
 
-It is important that your Dojo’s mentoring approaches support how girls learn and ask for help. Gisela from CoderDojo Ham said that girls in her Dojo had a “different process of asking for help”, and she observed that they seldom spoke up when they were in need of assistance. In pedagogy it is noted that often the loudest children, or ‘squeaky wheels’, receive the most help and attention, whereas those who are shy and don’t speak up when they find something difficult are often assumed to be fine. Thus, less outspoken children can end up being overlooked, even if they are unable to progress. Providing a space for less confident girls can enable them to get the support they need, thereby preventing them from dropping out. Moreover, if they receive assistance and can advance their skills, this will likely help them to build their confidence and thus to speak up in future. See section 4 for specific advice on female Mentors.
+Este important ca abordările procesului de mentorat din cadrul dojo-urilor să sprijine modul în care fetele învață și solicită ajutor. Gisela de la CoderDojo Ham a spus că fetele din dojo-ul ei au un "proces diferit de a cere ajutor" și a observat că ele evită să se manifeste chiar și atunci când aveau nevoie de asistență. În pedagogie se remarcă faptul că de cele mai multe ori cei mai vocali copii primesc cel mai mult ajutor și atenție, în timp ce, despre aceia care sunt timizi și nu spun atunci când se confruntă cu ceva dificil, se presupune deseori că nu au nici un fel de probleme. Astfel, copiii mai puțini deschiși pot fi efectiv trecuți cu vederea, deși ei nu reușesc să progreseze. Asigurarea unui spațiu pentru fetele mai puțin sigure pe ele le poate permite să obțină sprijinul de care au nevoie, împiedicându-le astfel să renunțe. În plus, dacă acestea primesc atenția și ajutorul necesar, își vor dezvolta abilitățile, lucru care le va ajuta probabil să își câștige încredere în sine și, astfel, să devină mai deschise și să semnaleze fără reținere momentele de blocaj. În secțiunea 4 pot fi găsite sfaturi specifice privind mentorii de gen feminin.
 
-#### Teaching bravery
+#### 
 
-Reshma Saujani, the founder of Girls Who Code, notes that girls are being socialized to be perfect. In her coding program for girls, mentors see this embodied in girls being afraid of not getting things right straight away and often finding fault with themselves. Sometimes girls even prefer to pretend they didn’t try and don’t show their coding attempts to mentors. It is important to explain to girls that trial and error are necessary and useful parts of coding and debugging, and to encourage them to persevere and develop their resilience.
+#### Educarea curajului
 
-#### Fostering a support network
+Reshma Saujani, fondatoare a mișcării Girls Who Code, remarcă faptul că fetele sunt condiționate spre căutarea perfecțiunii. În cadrul acestei miscări de educație în domeniul programării dedicată fetelor, mentorii văd acest lucru manifestat prin faptul că fetelor le este teamă că nu vor face lucrurile bine din prima încercare respectiv prin existența unui sentiment de vinovăție. Uneori, fetele preferă să pretindă că nu au încercat să rezolve o anumită problemă și nu le arată mentorilor soluția la care au lucrat. Este important să le explicăm fetelor că abordarea prin ”încercare și eroare” este necesară și utilă în domeniul programării și depanării și să le încurajăm să persevereze și să-și dezvolte tenacitatea.
 
-Developing a support network among the girls in your Dojo is another way to help build their resilience. Wendy of Clonakilty explains uses her girls table to try and promote camaraderie among the girls by encouraging them to celebrate each other’s accomplishments. She explains: “Before the National Scratch competition, I had all the girls show their entries just to the girls table. I wanted them to relish the sense of achievement — but I also wanted to show the girls how to support one another, so they could learn how to compete whilst also being happy for each other.”
+#### 
+
+#### Promovarea unei rețele de sprijin
+
+Construirea unei rețele de sprijin între fetele din dojo este un alt mod de a contribui la dezvoltarea perseverenței acestora. Wendy de la CoderDojo Clonakilty explică că folosește masa dedicată fetelor pentru a încerca să promoveze camaraderia între ele, încurajându-le să celebreze împreună realizările fiecăreia. Ea explică: "Înainte de Competiția Natională de Scratch, le-am creat fetelor posibilitatea să prezinte proiectele cu care urmau să participe, doar la masa fetelor. Am vrut ca ele să se bucure de sentimentul că au realizat ceva, dar, de asemenea, am vrut să le arăt cum să se sprijine reciproc, astfel încât să poată învăța cum să concureze, bucurându-se atât de succesul propriu cât și de al colegelor".
 
