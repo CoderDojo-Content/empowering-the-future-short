@@ -76,7 +76,7 @@ Este important ca abordările procesului de mentorat din cadrul dojo-urilor să 
 
 Reshma Saujani, fondatoare a mișcării Girls Who Code, remarcă faptul că fetele sunt condiționate spre căutarea perfecțiunii. În cadrul acestei miscări de educație în domeniul programării dedicată fetelor, mentorii văd acest lucru manifestat prin faptul că fetelor le este teamă că nu vor face lucrurile bine din prima încercare respectiv prin existența unui sentiment de vinovăție. Uneori, fetele preferă să pretindă că nu au încercat să rezolve o anumită problemă și nu le arată mentorilor soluția la care au lucrat. Este important să le explicăm fetelor că abordarea prin ”încercare și eroare” este necesară și utilă în domeniul programării și depanării și să le încurajăm să persevereze și să-și dezvolte tenacitatea.
 
-
+#### 
 
 #### Promovarea unei rețele de sprijin
 
