@@ -10,11 +10,7 @@
 * 21-40% 
 * Mai mult de 40%
 
-
-
 * Păstrează colegele/prietenele împreună
-
-
 
 * Configurarea spațiului în funcție de experiența ninjas
 * Configurarea spațiului în funcție de vârsta ninjas
@@ -39,15 +35,15 @@
 **Legendă**
 
 * Acțiune foarte recomandabil de implementat
-* Aciuni recomandabil de implementat
-* Acțiuni benefice 
+* Aciune recomandabil de implementat
+* Acțiune benefice
 
-* Acțiuni benefice dar nu neapărat necesare
+* Acțiune benefice darnu neapărat necesare
 
-* Acțiuni nerecomandabile în situația curentă 
+* Acțiune nerecomandabile în situația curentă
 
 \* CoderDojo Scoția a constatat că evenimentele punctuale rezervate exclusiv fetelor par a fi neproductive în vederea atragerii fetelor la activitățile curente/regulare ale dojo-urilor, deși derularea lor au indicat existența unui interes nesatisfăcut al fetelor de a participa la evenimente punctuale.
 
-**    
+**      
 **
 
