@@ -1,65 +1,55 @@
-Holding a one-off girls event can raise awareness of your Dojo, alerting girls and women in your neighbourhood, community, or corporate environment to the fact that you are actively encouraging female participation in your Dojo. Such events may be particularly helpful for beginners who have misconceptions about coding being ‘for boys’, and who as a result have never considered joining a Dojo.
+Desfășurarea unui eveniment punctual dedicat fetelor ninja poate crește gradul de conștientizare relativ la dojo-ului organizator, alertând fetele și femeile din cartierul, comunitatea sau mediul corporativ local cu privire la faptul că încurajați în mod activ participarea feminină în dojo. Acest tip de evenimente poate fi deosebit de util pentru fetele începătoare care, în multe cazuri, au concepția greșită despre programare ca fiind "un sport pentru băieți" și care, în consecință, nu s-au gândit niciodată să adere la un dojo.
 
-Events focussed on girls can be as informal or as structured as you like. Typically they’ll include a combination of streams covering different content. Ensure that the activities you offer allow a young person to feel a sense of achievement within a short space of time, e.g 20 minutes. Have Ninjas rotate through streams so they are exposed to a number of different methods of learning. Often one-off events include talks by women working in the technology sector about their journey.
+Evenimentele focalizate pentru fete pot fi atât de informale sau de structurate după cum doriți. În mod obișnuit, acestea vor include o combinație de fluxuri care acoperă conținut diferit. Asigurați-vă că activitățile pe care le oferiți permit unei persoane tinere să obțină un sentiment de realizare într-un interval scurt de timp, de exemplu 20 de minute. Ninjas trebuie să treacă prin mai multe fluxuri, astfel încât să fie expuși unor metode diferite de învățare. Adesea, evenimentele punctuale includ prezentări susținute de femei care lucrează în domeniul tehnologiei, relative la traseele lor profesionale.
 
   
 ___
 
-### Case study by CoderDojo Scotland
+### Studiu de caz CoderDojo Scoția
 
-While one-off girls events can be hugely popular, it’s important to also highlight figures released by CoderDojo Scotlandshowing that girls whose first attendance is at a mixed Dojo instead are:
-
-* almost seven times more likely to subsequently attend at least one other mixed Dojo session
-
-* five times more likely to attend more than one mixed Dojo session
+În timp ce evenimentele punctuale pentru fete pot fi extrem de populare, este important de asemenea să aducem în discuție cifrele publicate de CoderDojo Scoția care indică faptul că fetele ale căror prime întâlniri cu conceptul CoderDojo au loc la o activitate mixtă, cu participanți atât fete cât și băieți au de cinci ori mai multe șanse să participe la mai mult de o sesiune mixtă decât cele care participă la sesiuni dedicate strict fetelor.
 
 <br><br/>
 
-**Dr. Claire Quigley, of the Glasgow Science Centre Dojo, provided this summary of the case study:**
+** Dr. Claire Quigley, de la Glasgow Science Centre CoderDojo, a furnizat acest rezumat al studiului de caz: **
 
-Our **least successful interventio**n was holding three one-off events that were for girls only and had all-female mentor teams. Of the 74 participants, 92% did not return to attend any of the regular Dojos, despite being invited to do so at the event and being sent an email invitation to the next session of the mixed Dojo. This was a surprise, as the events themselves were very popular, with the one in Glasgow for example recording 55 sign-ups and 41 attendees.
+Intervenția noastră ** cea mai puțin reușită** a fost cea referitoare la susținerea a trei evenimente punctuale, rezervate pentru fete și cu echipe strict feminine de mentori. Dintre cele 74 de participante, 92% nu au participat la activități ale vreunui dojo regulat, în ciuda faptului că au fost invitate să facă acest lucru la eveniment și au primit ulterior prin e-mail invitații la următoarea sesiune a unor dojo-uri mixte. Acest comportament a constituit o surpriză, deoarece evenimentele punctuale pentru fete în sine erau foarte populare, cu cel din Glasgow, de exemplu, înregistrând 55 de înscrieri și 41 de participante.
 
 
+Deși motivele pentru care atât de multe fete nu au mers la vreun dojo sunt neclare, am identificat factorii care ar fi putut contribui:
 
-Although the reasons for why so many girls didn’t return are unclear, we established possible contributing factors:
+* Descrierile sesiunilor CoderDojo mixte au fost încărcate cu termeni din jargon și  au avut referiri la aspecte competiționale respectiv la faptul că participanții ar trebui să aibă cunoștințe anterioare din domeniul tehnologiei.
 
-* The descriptions of the next mixed Dojo sessions were heavy on jargon and competitive terms, and implied that attendees should possess prior knowledge of tech.
+* Evenimentele CoderDojo punctuale rezervate fetelor au avut o durată mai lungă decât sesiunile normale, pentru a oferi fetelor șansa de a încerca mai multe activități, considerându-se că ar fi mai probabil ca ele să activități care să le rețină atenția. E posibil ca lungimea evenimentelor să le fi descurajat pe participante.
 
-* The all-girls Dojo events were longer than normal Dojo sessions, in order to give the girls a chance to try out several activities, on the grounds that this would make them more likely to find one which really grabbed their attention. However, the length of the events may have put them off.
+* Evenimente ca aceasta pot ajuta la demistificarea domeniului programării, dar nu le oferă neapărat tuturor fetelor încrederea de a se alătura unui mediu mixt și de a lucra alături de băieți care par a fi mai pricepuți.
 
-* Events like this might help to demystify coding, but don’t necessarily give all girls the confidence to enter a mixed environment and work with boys who appear to be more knowledgeable.
-
-* The fact that there is a special event for girls may reinforce the ideas that ‘girls don’t code’ and have to be given special treatment.
+* Faptul că organizăm evenimente speciale pentru fete poate întări opiniile potrivit cărora "fetele nu programează" trebuind să li se acorde un tratament special.
 ___
-Considering that so many girls signed up and attended, it appears that there is an interest which is not currently being met in a way that works for girls. So while we didn’t find the events useful, it may be possible to reframe them to avoid negative outcomes while still retaining their positive aspects.
+Dacă luăm în considerare faptul că multe fete s-au înscris și au participat, se pare că există un interes care de fapt nu a fost satisfăcut într-un mod corespunzător. Așadar, dacă am constatat că evenimentele nu sunt utile pentru atragerea pe termen lung a fetelor în mișcarea CoderDojo, este posibil ca ele să fie regândite pentru a evita rezultatele negative, păstrând însă aspectele lor pozitive.
 
-**Measures to try to improve one-off event outcomes include:**
+** Măsurile pentru a încerca îmbunătățirea rezultatelor evenimentelor punctuale pentru fete includ: **
 
-* Encouraging girls to come with a friend or group of friends.
+* Încurajarea fetelor să vină cu o prietenă sau un grup de prietene.
 
-* Including girls you already have in your Dojo as peer mentors.
+* Includerea fetelor active deja în dojo ca  mini-mentori.
 
-* Integrating part of the event with a regular Dojo session, so that attendees can get an idea of what the Dojo is usually like.
+* Integrarea unei părți a evenimentului cu o sesiune regulată CoderDojo, astfel încât participanții să își facă o idee despre cum este o asemenea sesiune.
 
-* Making sure the event is very similar to a regular Dojo session, to give girls a realistic taste of the Dojo experience.
+* Conceperea evenimentul într-un mod cât mai apropiat de o sesiune regulată CiderDojo, pentru a le oferi fetelor începătoare o percepție realistă a experienței Dojo.
 
-<br><br/>
+<br> <br/>
 
-While the results of the research conducted by CoderDojo Scotland are worth noting, it is important to remember that they only collected data about Dojos in Scotland; different results might be found in other countries, for example where the educational system is more segregated.
+În timp ce rezultatele studiului efectuat de CoderDojo Scoția merită să fie remarcate, este important să luăm în considerare faptul că el se referă doar la date despre dojo-uri din Scoția; în alte țări ar putea fi obținute rezultate diferite, de exemplu în cazul unor țări în care sistemul educațional este mai segregat pe genuri.
 
-If you employ this best practice, we recommend that you rigorously monitor whether the number of girls attending your regular Dojos increases or decreases following the event.
-
-  
+Dacă utilizați această bună practică, vă recomandăm să monitorizați cu rigurozitate dacă numărul de fete care participă la activitățile regulate de la dojo-urile din zona vizată crește sau scade după eveniment.
 
 
-If you are considering running a one off girls events just remember to treat it like a regular Dojo, paying particular attention to recruiting female volunteers and the content that will be used.
+Dacă intenționați să derulați evenimente punctuale rezervate fetelor, amintiți-vă să le tratați ca pe o sesiune obișnuită, acordând însă o atenție specială recrutării voluntarilor femei, respectiv conținutului care va fi utilizat.
 
 ____
-### After the event
+### După eveniment
 
-* Encourage the girls to attend a Dojo regularly by directing all attendees to a Dojo afterwards: hand out flyers, or gather email addresses of the girls \(and parents/guardians\) to send them event notifications.
+* Încurajați fetele să participe la activitățile CoderDojo în mod regulat, direcționând toate participantele la unul sau altul dintre dojo-urile din zonă: dați-le fluturași informativi sau colectați adresele de e-mail ale fetelor (și părinților / tutorilor) pentru a le trimite notificări referitoare la evenimentele CoderDojo.
 
-* At subsequent sessions, record how many girls who attended the one-off event return to your regular Dojo. Please share these numbers with the CoderDojo Foundation, so we can continue to develop our research into the effectiveness of one-off girls events.
-
-
-
+* La sesiunile ulterioare, înregistrați câte dintre fetele care au participat la evenimentul punctual se alătură dojo-ului regulat. Sunteți încurajați să împărtășiți aceste cifre cu cei de la Fundația CoderDojo, astfel încât să poată adunate date suplimentare referitoare la eficacitatea evenimentelor punctuale rezervate fetelor.
