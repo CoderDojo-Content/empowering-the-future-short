@@ -1,18 +1,24 @@
-Many Dojos, like the Thomson Reuters Dojo in London, run series of girl-centric events to increase the number of girls at their Dojos. CoderDojo London and Thomson Reuters teamed up in 2015 to host their first-ever all-girls Dojo. Following the resounding success of the event, CoderDojo London now run monthly girl-centric Dojos.
+Numeroase dojo-uri, precum CoderDojo Thomson Reuters din Londra, dezvoltă serii de evenimente dedicate fetelor pentru a crește proporția acestora în dojo-urile respective. CoderDojo Londra și CoderDojo Thomson Reuters s-au asociat în 2015 pentru a organiza prima lor sesiune rezervată fetelor. Ca urmare a succesului remarcabil al evenimentului, CoderDojo Londra desfășoară lunar sesiuni dedicate fetelor. 
 
-In their research report, CoderDojo Scotland describe the success of a summer-camp-style event they ran in Inverness: 25 girls, who had never been at a Dojo, attended five coding sessions over the course of a week. 40% of them went on to attend more than one mixed Dojo session, compared to 23% of girls returning after first attending either a single mixed or girls-only Dojo session.
-___
-### Tips for running sustainable serial girl-centric events
+În raportul lor de cercetare, CoderDojo Scoția descrie succesul unui eveniment de tip tabără de vară desfășurat la Inverness: 25 de fete care nu au fost niciodată la un Dojo au participat la cinci sesiuni de educație în domeniul programării pe parcursul unei săptămâni. 40% dintre acestea au participat ulterior la mai mult de o sesiune mixtă Dojo, în comparație cu 23% dintre fete care s-au alăturat activităților CoderDojo, după ce au participat la o primă sesiune punctuală CoderDojo fie în mediu mixt, fie dedicată strict fetelor.
 
-* Invite girls back to each event Your events should be fully inclusive and open to boys. It’s a good idea to hold back a set amount of tickets for girls per event to encourage gender parity.
+---
 
-* Describe each event in a fun jargon-free way which appeals to girls of all ages.
+### Recomandări pentru derularea de serii sustenabile de evenimente rezervate pentru fete
 
-* Use images of girls participating in your Dojo in social media communications.
+* Invitați cu orice ocazie fetele să revină la următoarele evenimente
 
-* Encourage women to mentor and help out at the events.
+* Evenimentele ar trebui să fie deplin incluzive și deschise participării băieților.
 
-* Incorporate table-based activities \(small groups dedicated to a specific activity\), giving consideration to the content used.
+* Este bine să rețineți un număr fix de locuri pentru fete la fiecare eveniment organizat, pentru a încuraja paritatea de gen.
+
+* Descrieți fiecare eveniment într-un mod distractiv, fără elemente de jargon, astfel încât să fie atractiv pentru fete de toate vârstele.
+
+* Utilizați imagini cu fete care participă la activitățile dojo-ului în comunicările prin social media 
+
+* Încurajați femei active în domeniul tehnologiei, dar și mamele copiilor participanți să mentoreze și să ajute la organizarea și desfășurarea evenimentelor
+
+* Încorporați în program activități desfășurate la mese \(în grupuri mici, concentrate asupra unei activități specifice\), acordând atenție adecvării și atractivității conținutului utilizat.
 
 
 
