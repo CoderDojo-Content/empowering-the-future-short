@@ -6,7 +6,7 @@
 
 O parte din orice grup de oameni care încearcă pentru prima oară o activitate vor decide că aceasta nu este, de fapt, ceva ce își doresc să facă din nou. Un raport elaborat de către echipa CoderDojo Scoția în 2017 care se referă la participarea la activitățile dintre iulie 2012 și decembrie 2016 indică faptul că procentul celor veniți pentru prima oară și care nu revin pentru o a doua sesiune este cu 19 procente mai mare în cazul fetelor, decât în cazul băieților \(64% față de 45%\). Mai mult chiar, în cazul dojo-urilor mixte \(deschise participării ambelor genuri\), doar 23% dintre fete se întorc în vederea unei a doua participări, față de 39% dintre băieți. Echipele dojo-urilor scoțiene au notat în raport că ”e posibilă existența în cadrul Dojo-urilor a unor factori care descurajează fetele să devină participante cu regularitate la activitățile dojo-urilor”.
 
-**Aspecte cu efect descurajant legate de configurația spațială a Dojo-urilor:**
+**Aspecte cu efect descurajant legate de configurarea spațului dojo-urilor:**
 
 * Plasarea ninjas foarte experimentați lângă începători absoluți
 
@@ -20,11 +20,11 @@ O parte din orice grup de oameni care încearcă pentru prima oară o activitate
 
 Deși există multiple modalități de a crea un mediu ospitalier, vă sugerăm patru abordări principale care pot fi folosite separat sau împreună pentru a atrage și reține mai bine fetele:
 
-1. **Menținerea împreună a celor care sunt colegi de clasă sau prieteni**
+1. **Menținerea împreună a celor care sunt colegi sau prieteni**
 
-2. **Configurația spațială în funcție de nivelul de expertiză**
+2. **Configurarea spațiului în funcție de nivelul de expertiză**
 
-3. **Configurația spațială în funcție de vârstă **
+3. **Configurarea spațiului în funcție de vârstă **
 
 4. **Mese/zone rezervate pentru fete **
 
@@ -32,7 +32,7 @@ Deși există multiple modalități de a crea un mediu ospitalier, vă sugerăm 
 
 ### 1.2 Configurarea spațiului în funcție de nivelul de expertiză
 
-Numeroase dojo-uri încurajează fetele să își continue participarea prin crearea unui spațiu dedicat acelor ninjas începători, unde ”să simtă siguranța necesară pentru a se exprima, pentru a pune întrebări și pentru a spune ce îi preocupă”  \(Gemma Cagney, mentor la Silicon Docks Dojo\). Alte dojo-uri fac aceasta amenajând mese pentru începători sau pentru cei care sunt nou-veniți la respectivul dojo. Acest tip de spațiu le permite începătorilor:
+Numeroase dojo-uri încurajează fetele să își continue participarea prin crearea unui spațiu dedicat acelor ninjas începători, unde ”să simtă siguranța necesară pentru a se exprima, pentru a pune întrebări și pentru a spune ce îi preocupă”  \(Gemma Cagney, mentor la Silicon Docks Dojo\). Alte dojo-uri fac aceasta amenajând mese pentru începători sau pentru cei care sunt nou-veniți la respectivul dojo. Acest tip de zonare le permite începătorilor:
 
 * Să dezvolte relații cu alți participanți care sunt începători în domeniul tehnologic studiat
 
@@ -48,17 +48,17 @@ Notă: dacă există Ninjas cu experiență și vocalitate deosebită în Dojo, 
 
 ### 1.3 Configurarea spațiului în funcție de vârstă
 
-Într-o abordare asemănătoare cu configurarea spațiului în funcție de experiență, unele dojo-uri au împărțit copiii pe grupuri de vârstă pentru a face față constrângerilor legate de spațiu și timp, precum și cu situațiile în care participanții mai în vârstă devin dezangajați într-un mediu dominat masiv de ninjas semnificativ mai tineri. Dacă un dojo alege această abordare, organizatorii creează, de obicei, un spațiu pentru copiii de 7-12 ani și un alt spațiu pentru copiii de 13-17 ani. Bineînțeles, că pot fi evaluate și alte grupări ale vâstelor.
+Într-o abordare asemănătoare cu configurarea spațiului în funcție de experiență, unele dojo-uri au împărțit copiii pe grupuri de vârstă pentru a face față constrângerilor legate de spațiu și timp, precum și cu situațiile în care participanții mai în vârstă devin dezangajați într-un mediu dominat masiv de ninjas semnificativ mai tineri. Dacă un dojo alege această abordare, organizatorii creează, de obicei, o zonă pentru copiii de 7-12 ani și o altă zonă pentru copiii de 13-17 ani. Bineînțeles, că pot fi evaluate și alte grupări ale vârstelor.
 
 Dacă vă gândiți să împărțiți dojo-ul după vârstă, este important să vă asigurați că acest lucru susține și continuarea participării fetelor. Studiile au arătat că există o tendință a fetelor de a renunța în special la vârste cuprinse între 12 și 13 ani, în corelație cu tranziția spre liceu. La această vârstă, numeroși tineri încep să judece activitățile în funcție de modul în care acestea le susțin viitorul și aspirațiile de carieră. Un raport recent elaborat de Accenture arată că planurile de carieră ale fetelor par a fi puternic influențate de ce tipul de activități care le fac plăcere și pe care le percep ca fiind creative și benefice pentru societate. Sublinierea existenței unei multitudini de cariere legate de programare și faptul că ele se răspund acestor criterii, este o modalitate bună de a încuraja fetele la această vârstă critică să continue să participe la activitățile CoderDojo.
 
-Nu e recomandabilă implementarea unei configurații spațiale bazate pe vârstă în dojo-uri la care sub 20% dintre participanți sunt fete, mai ales dacă acest lucru le-ar împărți în grupuri și mai mici. În aceste cazuri extreme, este recomandată crearea unei mese sau a unui spațiu exclusiv pentru fete.
+Nu e recomandabilă implementarea unei configurări a spațiului bazată pe vârstă în dojo-uri la care sub 20% dintre participanți sunt fete, mai ales dacă acest lucru le-ar împărți în grupuri și mai mici. În aceste cazuri extreme, este recomandată crearea unei mese sau a unei zone exclusiv pentru fete.
 
 ---
 
-### 1.4 Mese sau spații dedicate fetelor
+### 1.4 Mese sau zone dedicate fetelor
 
-Multe dintre fete se pot simți copleșite și ”nelalocul lor” într-un mediu predominant masculin. Atunci când există o astfel de situație, o masă dedicată poate fi o modalitate foarte eficientă de a crea un spațiu primitor pentru fete în cadrul unui dojo mai mare. Mesele pentru fete pot fi deosebit de eficiente dacă aveți un număr foarte mic \(≤ 20%\) de ninja fete, precum și de mentori tehnici de gen feminin. Pete Gegen de la un dojo din Rochester, Illinois spune: "Inițiem echipe, mese sau grupuri formate exclusiv din fete numai când procentul participantelor de sex feminin scade mult, ajungând sub 20%. Am observat că această abordare oferă rezultate foarte bune". CoderDojo DCU, Clonakilty Dojo și CoderDojo Ham \(printre altele\) au creat o masă sau un spațiu dedicat fetelor la evenimentele lor curente.
+Multe dintre fete se pot simți copleșite și ”nelalocul lor” într-un mediu predominant masculin. Atunci când există o astfel de situație, o masă dedicată poate fi o modalitate foarte eficientă de a crea un spațiu primitor pentru fete în cadrul unui dojo mai mare. Mesele pentru fete pot fi deosebit de eficiente dacă aveți un număr foarte mic \(≤ 20%\) de ninja fete, precum și de mentori tehnici de gen feminin. Pete Gegen de la un dojo din Rochester, Illinois spune: "Inițiem echipe, mese sau grupuri formate exclusiv din fete numai când procentul participantelor de sex feminin scade mult, ajungând sub 20%. Am observat că această abordare oferă rezultate foarte bune". CoderDojo DCU, Clonakilty Dojo și CoderDojo Ham \(printre altele\) au creat o masă sau o zonă dedicată fetelor la evenimentele lor curente.
 
 ### 1.5 Invitații dedicate și rezervarea de bilete Targeted invites and select ticket holding
 

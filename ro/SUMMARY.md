@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction to Guide](README.md)
-* [1. Ambientul și configurația spațială a Dojo-ului](dojo.md)
+* [1. Ambientul și configurarea spațiului  dojo-ului](dojo.md)
 * [2. Language and images](21-language.md)
 * [3. Dojo content](3dojo-content.md)
 * [4. Female role models](4female-role-models.md)
