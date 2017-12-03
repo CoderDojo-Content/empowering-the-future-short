@@ -11,5 +11,5 @@
 * [8. Showcasing real-world careers ](8showcasing-real-world-careers.md)
 * [Overview of best practices ](overview-of-best-practices.md)
 * [Dealing with negative reactions](dealing-with-negative-reactions.md)
-* [Conclusion](conclusion.md)
+* [Concluzie](conclusion.md)
 
