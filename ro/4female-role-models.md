@@ -1,39 +1,40 @@
-Female role models are crucially important for ensuring that young women develop and sustain an interest in computing, coding, and digital making. A 2016 study conducted by Accenture and Girls Who Code showed that, of the girls who had female role models in the areas of computing and coding, 62% said they were likely to study these subjects in college. Conversely, only 15% of girls with no role model said the same.
-
-Mentors act as the main role models in a Dojo setting. Across the globe we see a correlation between the number of female Mentors and the number of girls in CoderDojo. In 2016 the percentage of girls among the total number of CoderDojo attendees was 29%, and the percentage of female Mentors was also 29%. Each year since we began collecting data on diversity in Dojos in 2014, we have observed very similar numbers of female Ninjas and Mentors.
-
-___
-### 4.1 Female Mentors in relation to girls tables
-
-If your Dojo has a low proportion of female attendees as well as few female technical Mentors, one way to make sure these Mentors are being best utilised as role models for girls is to ask them to lead a girls table \(see section 1.4\). Male Mentors can also assist at a girls table, but ideally a female Mentor should lead, in order to counter gender stereotypes.
-
-  
-___
-
-### 4.2 Youth Mentors
-
-Near-peer Mentors have proven very effective at engaging young people and beginners in STEM areas. Near-peer Mentors are more relatable to Ninjas than adult Mentors, because they are closer in age and share more similar life experiences and interests with them. Female youth Mentors can have a particularly strong influence on young girls, who might otherwise feel out of place in a male-dominated Dojo setting. Many Dojos, for example CoderDojo Zero \(Cork\) and CoderDojo DCU, use youth Mentors as role models and support for female Ninjas.
-
-  
+Asigurarea existenței unor modele de urmat de gen feminin este extrem de importantă pentru a asigura dezvoltarea și susținerea interesului fetelor în domeniul programării și a producției digitale. Un studiu realizat în 2016 de Accenture și Girls Who Code a arătat că, dintre fetele care au avut modele de gen feminin în domeniile informaticii și programării, 62% au indicat ca fiind probabil să studieze la facultate profile de aceeași factură. Dimpotrivă, doar 15% dintre fetele care nu au beneficiat de existența unor modele educaționale feminine au indicat ca probabil acest traiect profesional. 
 
 
-Having a female youth Mentor helps retain younger girls; being a youth Mentor motivates older girls to continue attending their Dojo, and aids them in building confidence.Youth Mentors should be involved in decision making along with older Mentors, and should be encouraged to suggest topics on which they would like to lead sessions. Always support girls when they express interest in being a youth Mentor, but never pressure them into taking up the role.
 
-  
-___
+Mentorii joacă principalul rol de modele în cadrul unui dojo. La nivelul întregii rețele globale poate fi identificată o corelație directă între numărul de femei mentor și numărul de fete din CoderDojo. În 2016, procentul de fete din numărul total de participanți la programul CoderDojo a fost de 29%, iar procentul de femei mentor a fost, de asemenea, de 29%. În fiecare an din 2014 când am început să culegem date despre diversitate în dojo-uri, am observat numere foarte similare de ninjas și mentori de gen feminin..
 
-### 4.3 How can I increase access to role models?
+---
 
-To attract female mentors you can try:
+### 4.1 Mentori femei la mesele de fete 
 
-* Connecting with local women in local tech organisations and speaking to them about your Dojo.
+Dacă dojo-ul vostru are un procent redus de fete în rândul participanților, precum și puțini mentori tehnici de gen feminin, o modalitate de a vă asigura că acești mentori sunt cel mai bine folosiți ca modele pentru fete este să le cereți să conducă o masă rezervată fetelor \(vezi secțiunea 1.4\). Mentorii de gen masculin pot asista, de asemenea, la o masă de fete, dar în mod ideal o femeie mentor ar trebui să conducă, pentru a contracara stereotipurile de gen.
 
-* Recruiting parents: you might be able to convince mothers who bring their kids to the Dojo to become Mentors, even if they don’t have technical skills. A good way to encourage this is to hold a training session for parents with non-technical backgrounds using beginner-level content, e.g. Scratch or HTML/CSS.
+---
 
-* Approaching educators and schools to try and encourage female teachers to join your Dojo as Mentors.
+### 4.2 Mini-mentorii
 
-* Encouraging female Ninjas in your Dojo to become youth Mentors. This will give younger girls a person to look up to, and it will help your Dojo become sustainable. Even if you cannot get 50% female Mentors in your Dojo, you should endeavour to invite women working in the technology sector to come and speak to your Ninjas. They will be particularly inspirational for girls in your Dojo.
-* There are numerous historical examples of women who have shaped the field of computing, such as Ada Lovelace and Grace Hopper. Highlight the contributions of these people, since they can also serve as role models for female Ninjas.
+Mentorii apropiați ca vârstă, denumiți și mini-mentori au demonstrat că sunt foarte eficienți în angajarea celor mai tineri ninja și a începătorilor în domeniul STEM. Realizarea de legături cu mini-mentorii e percepută ca fiind mai ușoară pentru ninjas decât cu mentorii adulți, deoarece sunt mai apropiați de vârstă și împărtășesc mai multe experiențe de viață și interese similare cu ei. Fetele mini-mentor pot avea o influență deosebit de puternică asupra fetelor ninja care altfel ar putea să se simtă nelalocul lor într-un dojo dominat de bărbați. Multe dojo-uri, de exemplu CoderDojo Zero \(Cork\) și CoderDojo DCU \(Dublin\), utilizează mini-mentorii ca modele și suport pentru fetele ninjas.
+
+Existența unei fete ca mini-mentor contribuie la reținerea fetelor ninja. În plus, a fi mini-mentor le motivează pe fetele mai mari să continue să participe la Dojo și le ajută să își construiască încrederea în sine. Mini-mentorii trebuie să fie implicați în luarea deciziilor împreună cu mentorii adulți și ar trebui încurajați să propună subiecte pe care ar dori să conducă sesiuni. Susțineți întotdeauna fetele ninja atunci când își exprimă interesul de a fi mini-mentori, dar nu le forțați niciodată să își asume acest rol.
+
+---
+
+### 4.3 Cum poate fi crescut accesul la modelele de urmat?
+
+Pentru a atrage mentori de gen feminin, puteți încerca următoarele:
+
+* Conectați-vă cu femei locale active în organizații formale și informale din domenii tehnologice și vorbiți-le despre dojo-ul pe care îl conduceți.
+
+* Recrutarea părinților: puteți încerca să convingeți mamele care își aduc copiii la dojo să devenă mentori, chiar dacă nu au competențe tehnice dezvoltate. O modalitate bună de a încuraja acest lucru este organizarea de sesiuni de instruire pentru părinții cu background non-tehnic în vederea introducerii lor  în zone de conținut de nivel începător, de ex. Scratch sau HTML/CSS.
+
+* Abordarea educatorilor și a școlilor pentru a încuraja femeile profesor să se alăture dojo-ului ca mentori.
+
+* Încurajarea fetelor ninja din dojo înspre a deveni mini-mentori. Acest lucru va oferi fetelor ninja o persoană de urmat și va ajuta dojo-ul să devină mai durabil.
+
+* Chiar dacă nu ajută la asigurarea parității între mentorii femei și bărbați în dojo, invitarea femeilor care lucrează în sectorul tehnologic să vină și le vorbească ninja despre profesie poate fi o sursă de inspirație pentru fetele din dojo.
+
+* Există numeroase exemple istorice de femei care au modelat domeniul programării, cum ar fi Ada Lovelace și Grace Hopper. Contribuțiile acestor persoane pot fi subliniate, ele putând servi, de asemenea, ca modele de rol pentru fetele ninja.
 
 
 

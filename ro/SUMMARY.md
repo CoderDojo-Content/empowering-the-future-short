@@ -4,7 +4,7 @@
 * [1. Dojo environment and layout](dojo.md)
 * [2. Language and images](21-language.md)
 * [3. Dojo content](3dojo-content.md)
-* [4. Female role models](4female-role-models.md)
+* [4. Modele feminine](4female-role-models.md)
 * [5. One-off girls events ](best-practices-in-addition-to-your-dojo.md)
 * [6. Serial events focussed on girls](6serial-events-focussed-on-girls.md)
 * [7. Engage Parents more in your Dojo](7engage-parents-more-in-your-dojo.md)
