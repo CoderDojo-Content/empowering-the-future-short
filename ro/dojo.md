@@ -1,4 +1,4 @@
-**Configurația spațială și amenajarea locurilor trebuie să contribuie la asigurarea următoarelor caracteristici:**
+**Configurarea spațiului și amenajarea locurilor trebuie să contribuie la asigurarea următoarelor caracteristici:**
 
 1. Dojo-ul este și, de asemenea, este perceput ca fiind prietenos pentru fete, astfel încât fetele care află despre el sau îl frecventează îl simt la fel de ospitalier pentru ele cum este și pentru băieți
 
@@ -30,9 +30,9 @@ Deși există multiple modalități de a crea un mediu ospitalier, vă sugerăm 
 
 ---
 
-### 1.2 Configurația spațială în funcție de nivelul de expertiză
+### 1.2 Configurarea spațiului în funcție de nivelul de expertiză
 
-Numeroase dojo-uri încurajează fetele să își continue participarea prin crearea unui spațiu dedicat ninjas începători unde aceștia ”să simtă siguranța necesară pentru a se exprima, pentru a pune întrebări și pentru a spune ce le preocupă”  \(Gemma Cagney, mentor la Silicon Docks Dojo\). Alte dojo-uri fac aceasta amenajând mese pentru începători sau pentru cei care sunt nou-veniți la resepctivul dojo. Acest tip de spațiu le permite începătorilor:
+Numeroase dojo-uri încurajează fetele să își continue participarea prin crearea unui spațiu dedicat acelor ninjas începători, unde ”să simtă siguranța necesară pentru a se exprima, pentru a pune întrebări și pentru a spune ce îi preocupă”  \(Gemma Cagney, mentor la Silicon Docks Dojo\). Alte dojo-uri fac aceasta amenajând mese pentru începători sau pentru cei care sunt nou-veniți la respectivul dojo. Acest tip de spațiu le permite începătorilor:
 
 * Să dezvolte relații cu alți participanți care sunt începători în domeniul tehnologic studiat
 
@@ -46,9 +46,9 @@ Notă: dacă există Ninjas cu experiență și vocalitate deosebită în Dojo, 
 
 ---
 
-### 1.3 Configurația spațială în funcție de vârstă
+### 1.3 Configurarea spațiului în funcție de vârstă
 
-Într-o abordare asemănătoare cu configurația spațială în funcție de experiență, unele dojo-uri au împărțit copiii pe grupuri de vârstă pentru a face față constrângerilor legate de spațiu și timp, precum și cu situațiile în care participanții mai în vârstă devin dezangajați într-un mediu dominat masiv de ninjas semnificativ mai tineri. Dacă un dojo alege această abordare, organizatorii creează, de obicei, un spațiu pentru copiii de 7-12 ani și un alt spațiu pentru copiii de 13-17 ani. Bineînțeles, că pot fi evaluate și alte grupări ale vâstelor.
+Într-o abordare asemănătoare cu configurarea spațiului în funcție de experiență, unele dojo-uri au împărțit copiii pe grupuri de vârstă pentru a face față constrângerilor legate de spațiu și timp, precum și cu situațiile în care participanții mai în vârstă devin dezangajați într-un mediu dominat masiv de ninjas semnificativ mai tineri. Dacă un dojo alege această abordare, organizatorii creează, de obicei, un spațiu pentru copiii de 7-12 ani și un alt spațiu pentru copiii de 13-17 ani. Bineînțeles, că pot fi evaluate și alte grupări ale vâstelor.
 
 Dacă vă gândiți să împărțiți dojo-ul după vârstă, este important să vă asigurați că acest lucru susține și continuarea participării fetelor. Studiile au arătat că există o tendință a fetelor de a renunța în special la vârste cuprinse între 12 și 13 ani, în corelație cu tranziția spre liceu. La această vârstă, numeroși tineri încep să judece activitățile în funcție de modul în care acestea le susțin viitorul și aspirațiile de carieră. Un raport recent elaborat de Accenture arată că planurile de carieră ale fetelor par a fi puternic influențate de ce tipul de activități care le fac plăcere și pe care le percep ca fiind creative și benefice pentru societate. Sublinierea existenței unei multitudini de cariere legate de programare și faptul că ele se răspund acestor criterii, este o modalitate bună de a încuraja fetele la această vârstă critică să continue să participe la activitățile CoderDojo.
 
