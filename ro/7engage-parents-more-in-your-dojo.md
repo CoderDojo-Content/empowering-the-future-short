@@ -1,50 +1,51 @@
-Research in the 2017 Accenture reporttells us that girls are much more aware of the influence of their parents, teachers, and friends than boys are, and that this influence is more pronounced the younger the girls are.
+Cercetarea din anul 2017 realizată de Accenture, arată că fetele sunt mult mai conștiente de influența părinților, profesorilor și prietenilor lor decât băieții și că această influență este cu atât mai pronunțată cu cât fetele sunt mai mici.
 
-* Almost two thirds of girls \(65%\) said their parents and family are the most likely group to influence subject choices at school.
+*  Aproape două treimi dintre fete \(65%\) au spus că părinții și familia lor sunt cel mai probabil grupul care le influențează alegerea profilului și a materiilor opționale la școală.
 
-* 49% of girls said their parents influence their career aspirations.
+* 49% dintre fete au spus că părinții le influențează aspirațiile de carieră.
 
-  
+Părinții nu doar influențează foarte mult aspirațiile de carieră ale fiicelor lor, ci sunt, de asemenea, implicați în opțiunile de valorificare a timpului lor liber. CoderDojo este o activitate extra-curriculară gratuită, prin urmare rolul părinților în participarea copilului la CoderDojo este semnificativ. O modalitate de a angaja părinții în programele CoderDojo este prin găzduirea unui eveniment "Adu-ți părinții la Dojo". Recent, CoderDojo Scoția a derulat seminarii multi-generaționale micro:bit. Deși unii părinți au simțit inițial frisoane, până la sfârșitul sesiunii au fost implicați cu adevărat. Feedback-ul lor cu privire la această ocazie de a lucra la ceva împreună cu copilul lor și de a înțelege mai bine tehnologia a fost foarte pozitiv.
+
+---
+
+### Cum pot fi părinții motivați să se implice mai mult? 
 
 
-Parents not only heavily influence the career aspirations of their daughters, but are also the gatekeepers of their free time. CoderDojo is a free extra-curricular activity, therefore a parent’s role in a child’s participation in CoderDojo is significant. One way to engage parents in computer programming and STEM subjects is to host a ‘Bring your parents to Dojo’ event. Recently, CoderDojo Scotland ran‘multi-generational’ micro:bit workshops. Although some parents initially felt trepidation, by the end of the session they were really involved. Their feedback on this chance to work on something with their child and understand technology better was very positive.
 
-  
-_____
+Organizarea unui eveniment de tip "Adu-ți părinții la CoderDojo" reprezintă o ocazie excelentă de a demistifica programarea pentru toți părinții, indiferent de nivelul competențelor digitale ale acestora și de a-i atrage să participe mai mult la călătoria de învățare a fiicei lor.   
+La un astfel de eveniment un părinte poate:
 
-### How can I motivate parents to engage more?
+* Înțelege exact ceea ce învață fiica sa la un dojo
 
-Holding a ‘Bring your parents to Dojo’ style event is an excellent opportunity to demystify programming for all parents of all computing competencies, and to entice them to participate more in their daughter’s learning journey.
+* Asista la prezentarea de către fiica sa a unor idei și concepte noi în fața unui grup   de colegi
 
-At such an event a parent can:
+* Încuraja și inspira propria fiică prin simpla prezență în mediul CoderDojo
 
-* Understand exactly what their daughter is learning at a Dojo
+* Crește bagajul propriu de cunoștințe și abilități
 
-* Watch their daughter present new ideas and concepts to a group
+* Învața instrumente și metode utilizabile pentru o mai bună sprijinire a dezvoltării propirie fiice la CoderDojo
 
-* Encourage and inspire their daughter simply by being present in the Dojo environment
+* Dobândi încrederea necesară pentru a voluntaria și la alte evenimente CoderDojo, contribuind astfel la necesara creștere a raportului voluntari-ninjas
 
-* Personally upskill
+---
 
-* Learn tools to better support their Ninja’s development at CoderDojo
+### Recomandări pentru implicarea părinților în evenimentele CoderDojo:
 
-* Build confidence to volunteer at more Dojo events, thereby increasing the volunteer-to-Ninja ratio
-___
-### Tips for engaging parents at your Dojo event:
+* Planificați discuții și ateliere de lucru scurte și angajante, mențineți conținutul cât mai simplu
 
-* Plan short and engaging talks and workshops, keep content simple
+* Explicați rolurile mentorilor și voluntarilor la CoderDojo
 
-* Have Mentors and volunteers at the Dojo, explain their roles
+* Expuneți diverse proiecte realizate de ninjas cu utilizarea diferitelor limbaje de programare
 
-* Display Ninja projects featuring various computer languages
+* Evidențiați beneficiile utilizării platformei CoderDojo \(badge-uri, resurse imprimabile, module de e-learning, forumuri etc.\)
 
-* Highlight the benefits of the CoderDojo platform \(badges, printable resources, e-learning modules, forums, etc\)
+* Anunțați evenimentele viitoare care ar putea fi de interes pentru părinți \(\#EUDojo, DojoCon, Coolest Projects, aniversări, etc.\)
 
-* Share upcoming events which may be of interest to parents \(EUDojo, DojoCon, Coolest Projects, etc\)
+* Păstrați lucrurile la un nivel lejer și distractiv, încheiați evenimentele într-o notă pozitivă 
 
-* Keep things lighthearted and fun, end on a high note
+* Încurajați părinții să se înscrie și să facă înregistrarea participării ninjas prin intermediul platformei CoderDojo, ceea ce va permite trimiterea de comunicări ulterioare cu informații detaliate și de solicitări de feedback
 
-* Encourage parents to sign up and book in via the CoderDojo platform → send follow-up communications with more information and a feedback request
+
 
 
 
