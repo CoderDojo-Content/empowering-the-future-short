@@ -1,19 +1,10 @@
-Like in many areas of life, people associated with your Dojo may be resistant to change or reluctant to admit there is a problem. Some may not be aware that there is an issue with gender representation in the Dojo. Mentors who have studied programming at college, and/or work in the technology sector, may be less responsive, because they have become accustomed to gender disparity.
+Ca în multe alte domenii ale vieții, persoanele asociate implementărilor CoderDojo pot fi rezistente la schimbare sau reticente în a recunoaște existența unor probleme. E posibil ca unii să nu conștientizeze că există o problemă la nivelul reprezentării genurilor în cadrul dojo-ului propriu. Mentorii care au studiat programarea la facultate și/sau lucrează în sectorul IT pot fi mai puțin receptivi, deoarece s-au obișnuit cu disparitățile de gen.
 
+Înregistrarea numărului ninjas participanți la activități și observarea oricărei creșteri sau descreșteri a ratei de participare și a celei de retragere a fetelor este utilă pentru evidențierea problemelor, identificarea măsurilor și abordărilor optime pentru un anume dojo și explicarea motivului pentru care este necesară o anumită intervenție.
 
+Dacă disparitatea de gen este considerată a fi o problemă la un anume Dojo, este important ca champion-ii, mentorii, voluntarii și părinții să o poată discuta într-un mod deschis, non-confruntațional. Evaluarea deschisă a diferitelor abordări ale problemei permite tuturor celor implicați să contribuie cu informații și să-și exprime opinia. Acest ghid poate fi folosit pentru a inițierea discuțiilor.
 
-Recording numbers of Ninjas and noting any increase or decrease in attendance and churn rate of girls is useful for highlighting issues, determining which approach is most suitable for your Dojo, and explaining why a specific intervention is necessary.
+CoderDojo Scoția s-a confruntat cu o anumită opoziție atunci când a testat strategii de îmbunătățire a raporturilor de gen în dojo-uri. Cei implicați în derularea acestor teste subliniază că, deși unele dintre măsurile propuse pot fi considerate drept "discriminare pozitivă" și, prin urmare, potențial "nedrepte" sau "artificiale", scopul lor este de a crea un mediu mai divers. Atingerea acestui deziderat, va face mai facilă implicarea în mișcarea CoderDojo pentru tineri de toate genurile, din toate mediile și culturile. Derularea acestui proces poate însemna utilizarea pe termen scurt a unor strategii care sunt într-o oarecare măsură "artificiale", în vederea generării de beneficii pe termen lung.
 
-
-
-If gender disparity is an issue at a Dojo, it is important that Champions, Mentors, volunteers, and parents can discuss it in an open non-confrontational way. Openly evaluating different approaches to the issue allows everyone to give input and state their opinion. This guide can be used to start the discussion.  
-
-
-CoderDojo Scotland experienced pushback when trialling strategies to improve gender balance in their Dojo. They point out that, although some of the suggested measures may be seen as ‘positive discrimination’, and therefore potentially as ‘unfair’ or ‘artificial’, their aim is to create a more diverse environment. Achieving this will make it easier for young people of all genders, backgrounds, and cultures to get involved in CoderDojo. Working towards this goal can mean employing strategies in the short term which are to some extent ‘artificial’, in order to reap long-term benefits.  
-
-
-The purpose of the approaches we have collected here is not to segregate genders, or to simplify the content girls learn. Gisela from CoderDojo Ham notes that there are girls at her girls table who are learning complex programming concepts and Python at a first-year bachelor degree level. These tried and tested best practices aim to combat significant disparity, to create a welcoming space for girls, and to increase the proximity of female role models to Ninjas.
-
-  
-
+Scopul abordărilor pe care le-am colectat aici nu este de a segrega genurile sau de a simplifica conținutul dedicat învețării de către fete. Gisela de la CoderDojo Ham notează că există fete de la masa rezervată lor care învață concepte de programare complexe sau ajung să știe Python la același nivel cu studenții de anul I. Aceste bune practici încercate și testate urmăresc să combată disparități semnificative, să creeze un spațiu primitor pentru fete și să sporească apropierea modelelor de urmat de gen feminin de ninjas.
 
