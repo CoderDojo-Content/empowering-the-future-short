@@ -68,7 +68,7 @@ Modul în care o tehnologie este prezentată poate avea un impact mai mare asupr
 
 ### 3.3 Subiectul contează
 
-Subiectul care va fi utilizat într-o activitate depinde foarte mult de copiii înșiși. Dacă aflăm în ce zone se află interesele putem alege subiecte care le sunt familiare. Pot fi luate în considerare interesele locale dintr-o comunitate. De exemplu, agricultura ar putea fi un subiect de care copiii care trăiesc într-o fermă sau dacă au prieteni care o fac ar putea fi interesați. Bazându-ne pe studiile menționate, pe observațiile făcute la dojo-uri cu un procent ridicat de fete și pe subiectele proiectelor propuse de fete în vederea participării la Coolest Projects, au putut fi colectate următoarele sugestii de subiecte:
+Subiectul tematic care va fi utilizat într-o activitate depinde foarte mult de copiii înșiși. Dacă aflăm în ce zone se află interesele lor, putem alege subiecte care le sunt familiare. Pot fi luate în considerare interesele locale dintr-o comunitate. De exemplu, agricultura ar putea fi un subiect de care copiii care trăiesc într-o fermă sau dacă au prieteni care o fac ar putea fi interesați. Bazându-ne pe studiile menționate, pe observațiile făcute la dojo-uri cu un procent ridicat de fete și pe subiectele proiectelor propuse de fete în vederea participării la Coolest Projects, au putut fi colectate următoarele sugestii de subiecte:
 
 * Probleme sociale și ajutorarea oamenilor
 
