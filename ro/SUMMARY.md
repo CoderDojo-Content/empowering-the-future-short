@@ -9,7 +9,7 @@
 * [6. Serial events focussed on girls](6serial-events-focussed-on-girls.md)
 * [7. Engage Parents more in your Dojo](7engage-parents-more-in-your-dojo.md)
 * [8. Showcasing real-world careers ](8showcasing-real-world-careers.md)
-* [Overview of best practices ](overview-of-best-practices.md)
+* [Sumar de bune practici](overview-of-best-practices.md)
 * [Dealing with negative reactions](dealing-with-negative-reactions.md)
 * [Conclusion](conclusion.md)
 

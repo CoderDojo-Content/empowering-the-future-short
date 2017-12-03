@@ -4,50 +4,50 @@
 
 \[Strings of text to translate for table above\]
 
-* Best practices to enact in your Dojo  to increase the % of girls
-* % of girls currently attending
-* Less than 20%
-* 21-40%
-* More than 40%
-
-* Keeping peers/friends together
-* Experience-based layout
-* Age-based layout
-* Girls table/space
-* Personalised email invites for Dojo tickets
-* Holding a proportion of tickets for girls
-* Female-friendly Mentor approach
-* Assessing language used to describe Dojo
-* Assessing images used to describe Dojo
-* Content catch-ups with all Mentors before a Dojo
-* Considering content you use
-* Increasing number and leadership input of female Mentors
-* Inviting female guest speakers to your Dojo
-* Avoiding assignment of stereotypical roles and activities
-* Highlighting women in technology throughout history
-* Female Mentors leading a girl’s tables
-* One-off girls events \* \(include strategies to encourage future attendance\) 
-* Serial girls events \(sequence of five or more sessions e.g. summer-camp-style event\)
-* Increasing parent engagement e.g. parent-inclusive event
-* Providing information on careers related to computing
+* Cele mai bune practici de implementat în dojo pentru creșterea procentului de fete
+* % fetelor care participă în prezent
+* Mai puțin de 20%
+* 21-40% 
+* Mai mult de 40%
 
 
 
-**Legend**
+* Păstrează colegele/prietenele împreună
 
-* Strongly advised action to take
-* Advisable action to take
-* Positive action to take
 
-* Positive but not necessary
-* Advised against in this situation
 
-\* CoderDojo Scotland found girls-only events to be unproductive in getting girls to attend regular Dojos, although running them did highlight an obvious unmet interest among girls who attended the one-off events.
+* Configurarea spațiului în funcție de experiența ninjas
+* Configurarea spațiului în funcție de vârsta ninjas
+* Masă / zonă pentru fete
+* E-mail personalizat pentru înregistrarea fetelor la sesiunile CoderDojo
+* Rezervarea unei părți a locurilor pentru fete
+* O abordare prietenoasă pentru mentorii femei
+* Evaluarea limbajului folosit pentru a descrie dojo-ul
+* Evaluarea imaginilor folosite pentru a descrie dojo-ul
+* Revederea conținutului cu toți mentorii înaintea fiecărei sesiuni CoderDojo
+* Revederea conținutului utilizat
+* Creșterea numărului și a rolului de lider al mentorilor femei
+* Invitarea unor vorbitori de gen feminin la CoderDojo
+* Evitarea stereotipurilor în asignarea de roluri și activitățil
+* Evidențierea rolului femeilor în tehnologie de-a lungul timpului
+* Mentori femei la conducerea meselor dedicate fetelor
+* Evenimente punctuale pentru fete\* \(cu includerea de strategii pentru încurajarea participării viitoare\)
+* Evenimente seriale pentru fete \(secvențe de cinci sau mai multe sesiuni, de exemplu, eveniment de tip tabără de vară\)
+* Creșterea implicării părinților, de ex. eveniment deschis pentru părinți 
+* Furnizarea de informații despre cariere din domeniul programării
 
-**  
+**Legendă**
+
+* Acțiune foarte recomandabil de implementat
+* Aciuni recomandabil de implementat
+* Acțiuni benefice 
+
+* Acțiuni benefice dar nu neapărat necesare
+
+* Acțiuni nerecomandabile în situația curentă 
+
+\* CoderDojo Scoția a constatat că evenimentele punctuale rezervate exclusiv fetelor par a fi neproductive în vederea atragerii fetelor la activitățile curente/regulare ale dojo-urilor, deși derularea lor au indicat existența unui interes nesatisfăcut al fetelor de a participa la evenimente punctuale.
+
+**    
 **
-
-
-
-
 
