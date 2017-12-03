@@ -1,10 +1,12 @@
-Role models working in the technology industry can provide insight into the sector, which in turn can help increase engagement of young people and motivate them to aspire to a similar career. Try reaching out to local tech-based organisations to invite guests to speak at your Dojo or to lead a session.
+Numeroși profesioniști din domeniul tehnologic pot deveni modele de urmat pentru ninjas, putând oferi o perspectivă asupra sectorului, contribuind la creșterea angajamentului tinerilor și motivându-i să aspire la o carieră similară. 
 
-Some possible careers for code learners are:
+Încercați să intrați în contact cu organizații locale active în domeniul tehnologiei pentru a-i invita pe angajații acestora să vorbească la dojo sau chiar să conducă o sesiune de lucru. 
+
+Unele dintre carierele posibile pentru cei care învață programarea la CoderDojo sunt: 
 
 * Animator
 
-* Engineer
+* Programator
 
 * Games Designer
 
@@ -14,13 +16,13 @@ Some possible careers for code learners are:
 
 * IT Manager
 
-* Architect
+* Arhitect
 
-* Information Security Analyst
+* Analist de securitate cibernetică 
 
 * Data Scientist
 
-* Music Technician
+* Tehnician de sunet
 
 
 
